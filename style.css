@@ -1,0 +1,27 @@
+h1{
+    color: rgb(102, 255, 0);
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+    text-shadow: 3px 3px 2px whitesmoke;
+}
+figure{
+    text-align: center;
+}
+body{
+    background: rgb(247, 0, 164);
+}
+p{
+    color: aquamarine;
+    text-align: justify;
+    font-size: 23px;
+    text-indent: 50px;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    line-height: 30px;
+    font-family: 'Marck Script', cursive;
+}
+a{
+    color: rgb(255, 140, 0);
+    text-decoration: none;
+}
